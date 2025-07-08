@@ -1,5 +1,12 @@
 import "./App.css";
-import { Navbar, Container, Nav, Carousel, Card, Button } from "react-bootstrap";
+import {
+  Navbar,
+  Container,
+  Nav,
+  Carousel,
+  Card,
+  Button,
+} from "react-bootstrap";
 
 function App() {
   return (
